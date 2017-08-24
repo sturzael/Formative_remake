@@ -1,0 +1,229 @@
+[
+    {
+
+      "lat":-41.294198,
+      "lng":174.783181,
+      "title":"Sweet Mother's Kitchen",
+      "description":"Laid-back, eclectic cafe serving New Orleans eats, plus some Mexican dishes",
+    "page":"Sweet-Mothers-Kitchen"},
+    {
+      "lat":-41.294192,
+      "lng":174.775167,
+      "title":"Lorettas",
+      "description":"description"
+    ,"page":"Loretta"},
+    {
+      "lat":-41.294281,
+      "lng":174.784987,
+      "title":"Five Boroughs",
+      "description":"Deli - Diner - Dive"
+    ,"page":"fiveboroughsnz"},
+    {
+      "lat":-41.292512,
+      "lng":174.775757,
+      "title":"Oriental Kingdom Cafe",
+      "description":"Malaysian Restaurant"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.291919,
+      "lng":174.777762,
+      "title":"Memphis Belle",
+      "description":"Coffee Shop"
+    ,"page":"memphisbellecoffeehouse"},
+    {
+      "lat":-41.292992,
+      "lng":174.781724,
+      "title":"Dragons Chinese Restaurant",
+      "description":"Chinese Restaurant"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.294378,
+      "lng":174.785234,
+      "title":"Ortega Fish Shack and Bar",
+      "description":"Seafood Restaurant"
+    ,"page":"Ortega-Fish-Shack-Bar"},
+
+    {
+      "lat":-41.292814,
+      "lng":174.783149,
+      "title":"Big Thumb",
+      "description":"Chinese Restaurant"
+    ,"page":"BigThumbChineseRestaurant"},
+    {
+      "lat":-41.284722,
+      "lng":174.779464,
+      "title":"Crab Shack",
+      "description":"Relaxed option for seafood and burgers"
+    ,"page":"CrabShackWGN"},
+    {
+      "lat":-41.224175,
+      "lng":174.874721,
+      "title":"Valentines",
+      "description":"Restaurant"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.294378,
+      "lng":174.785234,
+      "title":"Dynasty Restaurant",
+      "description":"Chinese Restaurant"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.291084,
+      "lng":174.777279,
+      "title":"Burger King",
+      "description":"Fast Food Restaurant"
+    ,"page":"BurgerKingNZ"},
+    {
+      "lat":-41.294942,
+      "lng":174.776095,
+      "title":"Mekong Cafe",
+      "description":"Vietnamese Restaurant"
+    ,"page":"MekongcafeNZ"},
+    {
+      "lat":-41.291559,
+      "lng":174.777339,
+      "title":"The Oaks",
+      "description":"Satay Noodle House"
+    ,"page":"The-Oaks-Satay-Noodle-House"},
+    {
+      "lat":-41.291996,
+      "lng":174.777342,
+      "title":"Mexico",
+      "description":"Mexican Restaurant"
+    ,"page":"Mexico-Wellington"},
+    {
+      "lat":-41.294242,
+      "lng":174.775205,
+      "title":"Olive Cafe",
+      "description":"Casual French-Italian cafe"
+    ,"page":"CafeOlive"},
+    {
+      "lat":-41.290969,
+      "lng":174.776431,
+      "title":"Abrakebabra",
+      "description":"Takeaway Kebabs"
+    ,"page":"kebabcentral.co.nz"},
+    {
+      "lat":-41.292623,
+      "lng":174.776194,
+      "title":"Little India",
+      "description":"Indian Restaurant"
+    ,"page":"littleindiablairstreet"},
+    {
+      "lat":-41.293620,
+      "lng":174.775974,
+      "title":"Customs Brew Bar",
+      "description":"Coffee Shop"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.290969,
+      "lng":174.776431,
+      "title":"Six Barrel Soda Co.",
+      "description":"Soft Drinks Shop"
+    ,"page":"sixbarrelsodaco"},
+    {
+      "lat":-41.293006,
+      "lng":174.775085,
+      "title":"HUSK",
+      "description":"Cosy.Casual.Groups"
+    ,"page":"huskbar"},
+    {
+      "lat":-41.286748,
+      "lng":174.775872,
+      "title":"Puro Chile",
+      "description":"Cafe"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.313094,
+      "lng":174.779933,
+      "title":"Cicio Cacio Osteria",
+      "description":"Italian Restaurant"
+    ,"page":"osteriaciciocacio"},
+    {
+      "lat":-41.292462,
+      "lng":174.779357,
+      "title":"Enigma Cafe",
+      "description":"Cafe"
+    ,"page":"EnigmaCafeNZ"},
+    {
+      "lat":-41.292472,
+      "lng": 174.781811,
+      "title":"Joe's Garage",
+      "description":"Cafe"
+    ,"page":"JoesGarageWellington"},
+    {
+      "lat":-41.295533,
+      "lng":174.778555,
+      "title":"Prefab",
+      "description":"Cafe"
+    ,"page":"PrefabEatery"},
+    {
+      "lat":-41.294359,
+      "lng":174.780534,
+      "title":"Lone Star Cafe and Bar",
+      "description":"Family Restaurant"
+    ,"page":"lonestarwellington"},
+    {
+      "lat":-41.293069,
+      "lng":174.783162,
+      "title":"Monsoon Poon",
+      "description":"Southeast Asian Restaurant"
+    ,"page":"Monsoon-Poon"},
+    {
+      "lat":-41.291422,
+      "lng":174.794127,
+      "title":"Beach Babylon",
+      "description":"Retro Cafe"
+    ,"page":"beachbabylon"},
+    {
+      "lat":-41.289395,
+      "lng":174.775100,
+      "title":"Kilim",
+      "description":"Restaurant"
+    ,"page":"KilimCafePetone"},
+
+    {
+      "lat":-41.292339,
+      "lng":174.776291,
+      "title":"Aroy Thai Eatery",
+      "description":"Retro Cafe"
+    ,"page":"Aroy-Thai"},
+    {
+      "lat":-41.293678,
+      "lng":174.769640,
+      "title":"Forage Kitchen",
+      "description":"Restaurant"
+    ,"page":"No facebook"},
+    {
+      "lat":-41.289764,
+      "lng": 174.775336,
+      "title":"Subway",
+      "description":"Sandwhich Restaurant"
+    ,"page":"subwaynz"},
+    {
+      "lat":-41.295545,
+      "lng":174.774505,
+      "title":"Grill Meats Beer",
+      "description":"Restuarant and grill bar"
+    ,"page":"grillmeatsbeer.co.nz"},
+    {
+      "lat":-41.281015,
+      "lng":174.778533,
+      "title":"Portlander Bar and Grill",
+      "description":"Modern Surf and Turf"
+    ,"page":"PortlanderBarAndGrill"},
+    {
+      "lat":-41.294942,
+      "lng":174.774652,
+      "title":"El Matador",
+      "description":"Argentinian Restaurant"
+    ,"page":"ElMatadorWellington"},
+
+    {
+      "lat":-41.294445,
+      "lng":174.772925,
+      "title":"Counter Culture",
+      "description":"Board Game Cafe and Bar"
+      ,"page":"countercultureboardgamecafe"}
+
+]

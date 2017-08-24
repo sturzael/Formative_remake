@@ -1,0 +1,27 @@
+{
+  "name": "formativespotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sturzael/Formative_Facebook_Google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sturzael/Formative_Facebook_Google/issues"
+  },
+  "homepage": "https://github.com/sturzael/Formative_Facebook_Google#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+
+    "jquery": "^3.2.1"
+
+  }
+}
